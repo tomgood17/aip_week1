@@ -2,4 +2,8 @@ Once upon a time
 
 New line added
 
+<<<<<<< HEAD
 Another new line added
+=======
+I have added the new line (Pramish)
+>>>>>>> f8556384acaf02968bdcb913be19360e1dd11748
