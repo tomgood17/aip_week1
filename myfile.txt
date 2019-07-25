@@ -2,23 +2,19 @@ Once upon a time
 
 New line added
 
-<<<<<<< HEAD
 I have added the new line (rafi)
 yooo
  lkguf
-=======
 
 I have added the new line (rafi)
 yooo
  lkguf
 
->>>>>>> 2eeb550f9031faaa66e0d86b28f1cff5a37b71ee
 I have added the new line (Pramish)
 
 New line (Tom)
 
-<<<<<<< HEAD
 another new line (Tom)
-=======
 I added a new line (Pramish)
->>>>>>> 2eeb550f9031faaa66e0d86b28f1cff5a37b71ee
+
+hello world (Tom)
